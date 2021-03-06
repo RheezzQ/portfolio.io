@@ -4,7 +4,7 @@
 
 ### Category Name 1
 
-[Project 1 Title](/sample_page)
+[Sistem Akademik Kampus](/sample_page)
 <img src="images/project1.png?raw=true"/>
 
 ---
